@@ -1,0 +1,24 @@
+div {
+  text-align: center;
+  margin-top: 205px;
+}
+
+img {
+  margin-bottom: 25px;
+}
+
+#text_box {
+  height: 33px;
+  font-size: 14;
+  padding: 10px;
+  margin-bottom: 30px;
+  color: blue;
+}
+
+.button {
+  background-color: white;
+  color: grey;
+  padding: 15px;
+  border: none;
+  font-weight: bold;
+}
