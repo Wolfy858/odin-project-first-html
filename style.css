@@ -22,3 +22,30 @@ img {
   border: none;
   font-weight: bold;
 }
+
+#navbar {
+  position: absolute;
+  top: 10;
+  right: 20;
+  left: 0;
+  margin: 5;
+  text-align: right;
+}
+
+#navbar a {
+    margin-top: 30;
+    margin-left: 5;
+    padding: 10;
+    color: #AAAAAA;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+}
+#navbar a:hover {
+  text-decoration: underline;
+}
+
+#navbar #signin {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
